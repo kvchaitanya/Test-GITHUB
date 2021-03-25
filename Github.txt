@@ -1,5 +1,7 @@
-Just to understand the the usage of github services.
+Line 1 Just to understand the the usage of github services.
 
-// Learn how to edit a file
+line 2 // Learn how to edit a file
+
+Line 3// Finaly editing again...
 
 Regards Chaitanya
